@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[craig b. photography]]></title>
         <description><![CDATA[craig b. photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/craig-b-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 22:05:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 22:47:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/craig-b-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lethal spinning at the Ranking Joe concert]]></title>
             <description><![CDATA[<article><h1>Lethal spinning at the Ranking Joe concert</h1><p>Lethal Selecta spinning at the Ranking Joe concert- Hawaiian Brian's 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/492444ac81804a4032713627d8570ee9e7595ac6.jpg"></article>]]></description>
-            <link>undefinedlethal-spinning-at-the-ranking-joe-concert/index.html</link>
+            <link>https://thegrid.ai/craig-b-photography/lethal-spinning-at-the-ranking-joe-concert/index.html</link>
             <guid isPermaLink="false">ed836be4-982a-4687-8c19-736a460b231c</guid>
             <pubDate>Thu, 19 May 2016 22:04:33 GMT</pubDate>
         </item>
