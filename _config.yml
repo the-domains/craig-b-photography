@@ -1,14 +1,26 @@
-layout_spectrum: 0.6036195189226419
-typography_spectrum: 0.2500058524310589
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2432868
   brandStrength: 0.6660725167021155
-  lightness: 0.155844941502437
-  saturation: 0.942619743058458
-  rhythmicContrast: 0.33172156009823084
+  lightness: 0.4516649
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+  rhythmicContrast: 0.4570354
+typography_spectrum: 0
+layout_spectrum: 1
 name: craig b. photography
