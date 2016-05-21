@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0
+typography_spectrum: 0.17146455799229443
 color:
-  saturation: 0.2432868
-  brandStrength: 0.6660725167021155
-  lightness: 0.66971
+  saturation: 0.2739412027876824
+  brandStrength: 0.6011965812649578
+  lightness: 0.6162567955907434
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-  rhythmicContrast: 0.8856068
+  rhythmicContrast: 0.32649704650975764
 layout_spectrum: 1
 name: craig b. photography
