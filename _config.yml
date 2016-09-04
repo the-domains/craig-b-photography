@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.17146455799229443
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.2739412027876824
+  saturation: 0.2739412
   brandStrength: 0.6011965812649578
-  lightness: 0.6162567955907434
+  lightness: 0.7217538
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-  rhythmicContrast: 0.32649704650975764
-layout_spectrum: 1
+  rhythmicContrast: 0.4494098
+typography_spectrum: 0.1714645579922944
+layout_spectrum: 0.9940978
 name: craig b. photography
